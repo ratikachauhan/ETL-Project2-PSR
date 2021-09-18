@@ -15,10 +15,10 @@ https://www.kaggle.com/datasnaek/youtube-new
 
 ## Data Extraction and Transformation:
   ### USvideos.csv
-    -   For the trending date and publish date columns, we changed the data type from string to datetime and then extracted the month and year as new columns.
-    -   Created a new dataframe with the columns we needed
-    -   Verified if there were any duplicates and dropped the duplicates
-    -   Renamed the columns
+   -   For the trending date and publish date columns, we changed the data type from string to datetime and then extracted the month and year as new columns.
+   -   Created a new dataframe with the columns we needed
+   -   Verified if there were any duplicates and dropped the duplicates
+   -   Renamed the columns
 
   ### US_category_id.json 
   -   Normalized the data by extracting the category items object
