@@ -1,7 +1,7 @@
 CREATE TABLE video_category(
 id INT PRIMARY KEY,
 category_title VARCHAR
-)
+);
 
 
 --Create table for US Youtube Videos
