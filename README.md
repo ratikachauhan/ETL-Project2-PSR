@@ -27,5 +27,10 @@ https://www.kaggle.com/datasnaek/youtube-new
   -   Verified if there were any duplicates and dropped the duplicates
   -   Renamed the columns
  
- ### Loading to Postgres
- -  Create the table schem
+ ### Loading Data
+ -  Created the table schemas for both of the final dataframes created
+ -  Created a connection in Pandas to connect to Postgress using SQL Alchemy
+ -  Load dataframes to Postgress tables
+ -  Verified dataset results using queries
+ -  Joined the two tables and displayed the results
+ 
