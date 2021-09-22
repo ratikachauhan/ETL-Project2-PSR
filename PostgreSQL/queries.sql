@@ -10,6 +10,7 @@ FROM us_videos LIMIT 5;
 SELECT COUNT(id) 
 FROM us_videos;
 
+#Joining Tables
 SELECT v.id
 	,title
 	,channel_title
